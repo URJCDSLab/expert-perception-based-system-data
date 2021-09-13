@@ -1,4 +1,4 @@
-# expert-perception-based-system-data
+# Experts perception-based system to detect misinformation in health websites (datasets)
 
 This repository contains data used in the paper Experts perception-based system to detect misinformation in health websites. This paper addresses the emergence of health-related websites that include fraudulent content.
 
